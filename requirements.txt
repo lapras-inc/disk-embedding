@@ -1,0 +1,8 @@
+gensim==3.6.0
+numpy==1.15.2
+pandas==0.22.0
+pywatcher==0.4.0
+scipy==1.1.0
+luigi==2.8.2
+pytest==4.1.0
+matplotlib==3.0.2

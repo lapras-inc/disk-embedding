@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+logs/
+temp-plot.html
+
+*.old
+.*.swp
+.ipynb_checkpoints
+*.out
+
+data/model
+data/output
+data/aps
+
+results_*.csv
